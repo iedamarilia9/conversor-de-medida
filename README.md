@@ -4,7 +4,7 @@ Este é um simples aplicativo de conversão de medidas desenvolvido utilizando H
 
 ## Vídeo de Demonstração
 
-Clique [aqui](conversor.mp4) para baixar ou visualizar o vídeo de demonstração.
+Clique [aqui](video.mp4) para baixar ou visualizar o vídeo de demonstração.
 
 
 ## Funcionalidades
@@ -15,14 +15,14 @@ Clique [aqui](conversor.mp4) para baixar ou visualizar o vídeo de demonstraçã
 
 ## Estrutura de Arquivos
 
-- `conversor.html`: Arquivo HTML que contém a estrutura da página, incluindo os campos de entrada, menu suspenso e botão de conversão.
+- `index.html`: Arquivo HTML que contém a estrutura da página, incluindo os campos de entrada, menu suspenso e botão de conversão.
 - `styles.css`: Arquivo CSS que define o estilo e o layout da página.
 - `script.js`: Arquivo JavaScript que implementa a lógica de conversão de medidas e manipulação de eventos.
 
 ## Como Usar
 
 1. Faça o download ou clone este repositório em seu computador.
-2. Abra o arquivo `conversor.html` em seu navegador web.
+2. Abra o arquivo `index.html` em seu navegador web.
 3. Insira um valor em metros e selecione a unidade de medida desejada.
 4. Clique no botão "Converter" para ver o resultado da conversão.
 
