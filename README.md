@@ -2,6 +2,11 @@
 
 Este é um simples aplicativo de conversão de medidas desenvolvido utilizando HTML, CSS e JavaScript. Ele permite que o usuário converta uma medida em metros para diferentes unidades de medida, como milímetros, centímetros, decímetros, decâmetros, hectômetros e quilômetros.
 
+## Vídeo de Demonstração
+
+Clique [aqui](conversor.mp4) para baixar ou visualizar o vídeo de demonstração.
+
+
 ## Funcionalidades
 
 - O usuário insere um valor em metros e seleciona a unidade de medida desejada em um menu suspenso.
